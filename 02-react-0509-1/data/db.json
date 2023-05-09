@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "게시물 1",
+      "body": "1번에 대한 내용",
+      "author": "Kim",
+      "id": 1
+    },
+    {
+      "title": "게시물 2",
+      "body": "2번에 대한 내용",
+      "author": "Lee",
+      "id": 2
+    },
+    {
+      "title": "게시물 3",
+      "body": "3번에 대한 내용",
+      "author": "Park",
+      "id": 3
+    }
+  ]
+}
