@@ -1,4 +1,4 @@
-# 리엑트 베이직: 블로그 만들기 02
+# 리액트 베이직: 블로그 만들기 02
 
 - `index.js` : React 애플리케이션을 렌더링하는 역할. ReactDOM.render() 함수를 사용하여 App 컴포넌트를 root DOM 요소에 렌더링. 애플리케이션의 진입점(Entry point). (`ReactDOM.render()` 함수를 사용하여 React 컴포넌트를 실제 DOM(Document Object Model)에 렌더링. 초기 설정 수행 역할.)
 - `App.js` : 애플리케이션의 라우트와 레이아웃을 정의하는 컴포넌트. BrowserRouter 컴포넌트를 사용하여 애플리케이션의 경로를 관리. Routes 컴포넌트를 사용하여 경로와 매칭되는 컴포넌트를 렌더링. 렌더링할 컴포넌트는 Route 컴포넌트를 사용하여 경로와 연결. Navbar 컴포넌트를 사용하여 상단 네비게이션 바를 렌더링하고, div 요소를 사용하여 컨텐츠를 렌더링. (React 애플리케이션에서 최상위 컴포넌트. `index.js` 파일에서 `App.js`컴포넌트를 렌더링하여 애플리케이션 시작.)
