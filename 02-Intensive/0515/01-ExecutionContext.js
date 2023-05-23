@@ -6,7 +6,6 @@ setTimeout(() => {
   console.log("set Timeout");
 }, 1000);
 console.log("종료 ===");
-
 // 시작 ===
 // 종료 ===
 // set Timeout
