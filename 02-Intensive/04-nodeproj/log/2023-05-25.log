@@ -1,0 +1,139 @@
+2023-05-25 12:53:07.721[info] app start
+2023-05-25 12:53:07.767[info] DB connection success
+2023-05-25 12:53:07.822[info] Sequelize sync success
+2023-05-25 12:55:37.271[info] app start
+2023-05-25 12:55:37.309[info] DB connection success
+2023-05-25 12:55:37.333[info] Sequelize sync success
+2023-05-25 12:58:52.240[info] app start
+2023-05-25 12:58:52.279[info] DB connection success
+2023-05-25 12:58:52.298[info] Sequelize sync success
+2023-05-25 12:58:54.800[info] (auth.token.params) {"userid":"kim","password":"1"}
+2023-05-25 12:58:54.806[debug] (userService.login) {"id":1,"userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","name":"김개발","role":"member"}
+2023-05-25 12:58:54.807[debug] (userService.checkPassword) true
+2023-05-25 12:58:54.807[info] (auth.token.result) {"id":1,"userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","name":"김개발","role":"member"}
+2023-05-25 13:00:19.012[info] app start
+2023-05-25 13:00:19.044[info] DB connection success
+2023-05-25 13:00:19.065[info] Sequelize sync success
+2023-05-25 13:00:25.326[info] app start
+2023-05-25 13:00:25.370[info] DB connection success
+2023-05-25 13:00:25.392[info] Sequelize sync success
+2023-05-25 13:06:39.787[info] app start
+2023-05-25 13:06:39.828[info] DB connection success
+2023-05-25 13:06:39.845[info] Sequelize sync success
+2023-05-25 13:07:51.730[info] app start
+2023-05-25 13:07:51.766[info] DB connection success
+2023-05-25 13:07:51.788[info] Sequelize sync success
+2023-05-25 13:21:36.177[info] app start
+2023-05-25 13:21:36.212[info] DB connection success
+2023-05-25 13:21:36.232[info] Sequelize sync success
+2023-05-25 13:21:50.921[info] app start
+2023-05-25 13:21:50.954[info] DB connection success
+2023-05-25 13:21:50.977[info] Sequelize sync success
+2023-05-25 13:23:36.117[info] app start
+2023-05-25 13:23:36.147[info] DB connection success
+2023-05-25 13:23:36.167[info] Sequelize sync success
+2023-05-25 13:23:38.564[info] app start
+2023-05-25 13:23:38.594[info] DB connection success
+2023-05-25 13:23:38.616[info] Sequelize sync success
+2023-05-25 13:23:56.600[info] app start
+2023-05-25 13:23:56.631[info] DB connection success
+2023-05-25 13:23:56.652[info] Sequelize sync success
+2023-05-25 13:23:57.599[info] app start
+2023-05-25 13:23:57.630[info] DB connection success
+2023-05-25 13:23:57.651[info] Sequelize sync success
+2023-05-25 13:23:58.117[info] app start
+2023-05-25 13:23:58.151[info] DB connection success
+2023-05-25 13:23:58.172[info] Sequelize sync success
+2023-05-25 13:24:04.496[info] app start
+2023-05-25 13:24:04.526[info] DB connection success
+2023-05-25 13:24:04.547[info] Sequelize sync success
+2023-05-25 13:25:53.373[info] app start
+2023-05-25 13:25:53.404[info] DB connection success
+2023-05-25 13:25:53.426[info] Sequelize sync success
+2023-05-25 13:30:18.245[info] app start
+2023-05-25 13:30:18.282[info] DB connection success
+2023-05-25 13:30:18.303[info] Sequelize sync success
+2023-05-25 13:30:23.981[info] app start
+2023-05-25 13:30:24.014[info] DB connection success
+2023-05-25 13:30:24.031[info] Sequelize sync success
+2023-05-25 13:30:27.435[info] app start
+2023-05-25 13:30:27.469[info] DB connection success
+2023-05-25 13:30:27.488[info] Sequelize sync success
+2023-05-25 13:30:29.139[info] app start
+2023-05-25 13:30:29.171[info] DB connection success
+2023-05-25 13:30:29.193[info] Sequelize sync success
+2023-05-25 13:30:33.981[info] app start
+2023-05-25 13:30:34.012[info] DB connection success
+2023-05-25 13:30:34.032[info] Sequelize sync success
+2023-05-25 13:30:47.714[info] app start
+2023-05-25 13:30:47.747[info] DB connection success
+2023-05-25 13:30:47.763[info] Sequelize sync success
+2023-05-25 13:30:49.499[info] app start
+2023-05-25 13:30:49.531[info] DB connection success
+2023-05-25 13:30:49.553[info] Sequelize sync success
+2023-05-25 13:33:44.572[info] app start
+2023-05-25 13:33:44.607[info] DB connection success
+2023-05-25 13:33:44.627[info] Sequelize sync success
+2023-05-25 13:36:07.046[info] app start
+2023-05-25 13:36:07.086[info] DB connection success
+2023-05-25 13:36:07.104[info] Sequelize sync success
+2023-05-25 13:36:09.967[info] app start
+2023-05-25 13:36:09.998[info] DB connection success
+2023-05-25 13:36:10.015[info] Sequelize sync success
+2023-05-25 13:36:12.448[info] app start
+2023-05-25 13:36:12.480[info] DB connection success
+2023-05-25 13:36:12.502[info] Sequelize sync success
+2023-05-25 13:36:12.922[info] app start
+2023-05-25 13:36:12.953[info] DB connection success
+2023-05-25 13:36:12.974[info] Sequelize sync success
+2023-05-25 13:42:10.052[info] app start
+2023-05-25 13:42:10.088[info] DB connection success
+2023-05-25 13:42:10.109[info] Sequelize sync success
+2023-05-25 13:43:42.154[info] app start
+2023-05-25 13:43:42.193[info] DB connection success
+2023-05-25 13:43:42.214[info] Sequelize sync success
+2023-05-25 13:46:10.544[info] app start
+2023-05-25 13:46:10.583[info] DB connection success
+2023-05-25 13:46:10.599[info] Sequelize sync success
+2023-05-25 13:46:13.199[info] app start
+2023-05-25 13:46:13.230[info] DB connection success
+2023-05-25 13:46:13.251[info] Sequelize sync success
+2023-05-25 13:46:16.816[info] app start
+2023-05-25 13:46:16.849[info] DB connection success
+2023-05-25 13:46:16.868[info] Sequelize sync success
+2023-05-25 13:48:27.576[info] app start
+2023-05-25 13:48:27.607[info] DB connection success
+2023-05-25 13:48:27.627[info] Sequelize sync success
+2023-05-25 13:48:44.412[info] app start
+2023-05-25 13:48:44.442[info] DB connection success
+2023-05-25 13:48:44.465[info] Sequelize sync success
+2023-05-25 13:48:57.133[info] app start
+2023-05-25 13:48:57.165[info] DB connection success
+2023-05-25 13:48:57.185[info] Sequelize sync success
+2023-05-25 13:49:11.313[info] app start
+2023-05-25 13:49:11.344[info] DB connection success
+2023-05-25 13:49:11.361[info] Sequelize sync success
+2023-05-25 13:49:47.546[info] app start
+2023-05-25 13:49:47.576[info] DB connection success
+2023-05-25 13:49:47.597[info] Sequelize sync success
+2023-05-25 13:49:48.119[info] app start
+2023-05-25 13:49:48.151[info] DB connection success
+2023-05-25 13:49:48.171[info] Sequelize sync success
+2023-05-25 13:49:48.993[info] app start
+2023-05-25 13:49:49.024[info] DB connection success
+2023-05-25 13:49:49.042[info] Sequelize sync success
+2023-05-25 14:03:19.222[info] app start
+2023-05-25 14:03:19.264[info] DB connection success
+2023-05-25 14:03:19.285[info] Sequelize sync success
+2023-05-25 14:04:01.814[info] app start
+2023-05-25 14:04:01.845[info] DB connection success
+2023-05-25 14:04:01.867[info] Sequelize sync success
+2023-05-25 14:04:02.924[info] app start
+2023-05-25 14:04:02.955[info] DB connection success
+2023-05-25 14:04:02.974[info] Sequelize sync success
+2023-05-25 14:04:40.321[info] app start
+2023-05-25 14:04:40.353[info] DB connection success
+2023-05-25 14:04:40.369[info] Sequelize sync success
+2023-05-25 14:30:23.138[info] app start
+2023-05-25 14:30:23.177[info] DB connection success
+2023-05-25 14:30:23.196[info] Sequelize sync success

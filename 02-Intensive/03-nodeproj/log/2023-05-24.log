@@ -1,0 +1,2 @@
+2023-05-24 16:56:54.819[info] app start
+2023-05-24 16:56:54.853[error] DB Connection fail connect ECONNREFUSED 127.0.0.1:3306

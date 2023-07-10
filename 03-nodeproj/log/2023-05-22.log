@@ -1,0 +1,344 @@
+2023-05-22 10:50:52.530[info] app start !!
+2023-05-22 10:51:51.001[info] app start !!
+2023-05-22 11:08:19.769[info] app start !!
+2023-05-22 11:08:38.662[info] app start !!
+2023-05-22 11:09:34.488[info] app start !!
+2023-05-22 11:10:25.734[info] app start !!
+2023-05-22 11:10:27.349[error] This message is error
+2023-05-22 11:10:27.349[warn] This message is warn
+2023-05-22 11:10:27.350[info] This message is info
+2023-05-22 11:10:27.350[verbose] This message is verbose
+2023-05-22 11:10:27.350[debug] This message is debug
+2023-05-22 11:11:59.459[info] app start !!
+2023-05-22 11:12:02.016[error] This message is error
+2023-05-22 11:12:02.016[warn] This message is warn
+2023-05-22 11:12:02.017[info] This message is info
+2023-05-22 11:12:02.017[info] This message is 조승민
+2023-05-22 11:12:02.017[info] This message is 조승민2
+2023-05-22 11:12:02.018[info] This message is info
+2023-05-22 11:12:02.018[verbose] This message is verbose
+2023-05-22 11:12:02.018[debug] This message is debug
+2023-05-22 11:22:50.636[info] app start !!
+2023-05-22 11:22:53.577[info] app start !!
+2023-05-22 11:35:04.990[info] app start !!
+2023-05-22 11:35:07.317[info] [object Object]
+2023-05-22 11:35:20.120[info] app start !!
+2023-05-22 11:35:21.424[info] [object Object]
+2023-05-22 11:35:28.336[info] [object Object]
+2023-05-22 11:35:39.029[info] app start !!
+2023-05-22 11:35:42.140[info] {"numA":100,"numB":100,"result":200}
+2023-05-22 11:35:53.256[info] app start !!
+2023-05-22 11:35:54.850[info] {"numA":100,"numB":100,"result":200}
+2023-05-22 11:36:00.310[info] {"numA":1023,"numB":100,"result":1123}
+2023-05-22 11:37:03.154[info] app start !!
+2023-05-22 11:40:43.469[info] app start !!
+2023-05-22 12:55:39.443[info] app start !!
+2023-05-22 12:56:26.521[info] app start !!
+2023-05-22 12:56:36.361[info] app start !!
+2023-05-22 12:56:43.920[info] app start !!
+2023-05-22 12:58:33.490[info] app start !!
+2023-05-22 12:58:42.374[info] app start !!
+2023-05-22 12:58:49.377[info] app start !!
+2023-05-22 12:58:52.338[info] app start !!
+2023-05-22 12:58:53.901[info] /date : 2023-5-22
+2023-05-22 12:59:03.594[info] app start !!
+2023-05-22 12:59:25.843[info] app start !!
+2023-05-22 12:59:28.466[info] /date : 2023-5-22 1684727968466-60-28
+2023-05-22 12:59:34.546[info] app start !!
+2023-05-22 12:59:35.721[info] /date : 2023-5-22 12-60-35
+2023-05-22 12:59:58.779[info] app start !!
+2023-05-22 13:00:03.465[info] /date : 
+  2023-5-22
+   13-1-3
+2023-05-22 13:00:06.060[info] /date : 
+  2023-5-22
+   13-1-6
+2023-05-22 13:00:06.755[info] /date : 
+  2023-5-22
+   13-1-6
+2023-05-22 13:00:07.315[info] /date : 
+  2023-5-22
+   13-1-7
+2023-05-22 13:00:07.986[info] /date : 
+  2023-5-22
+   13-1-7
+2023-05-22 13:01:08.999[info] /date : 
+  2023-5-22
+2023-05-22 13:03:00.730[info] app start !!
+2023-05-22 13:03:15.854[info] app start !!
+2023-05-22 13:03:21.432[info] app start !!
+2023-05-22 13:03:23.763[info] Mon, 22 May 2023 04:03:23 GMT
+2023-05-22 13:03:23.764[info] /date : 
+  2023-5-22
+2023-05-22 13:04:09.618[info] app start !!
+2023-05-22 13:04:12.402[info] 2023-05-22
+2023-05-22 13:04:12.403[info] /date : 
+  2023-5-22
+2023-05-22 13:05:11.859[info] {"numA":1023,"numB":100,"result":1123}
+2023-05-22 13:05:23.283[info] {"numA":1023,"numB":100,"result":1123}
+2023-05-22 13:05:31.616[info] {"numA":1023,"numB":1000,"result":2023}
+2023-05-22 13:07:02.542[info] app start !!
+2023-05-22 13:07:29.515[info] app start !!
+2023-05-22 13:09:16.812[info] app start !!
+2023-05-22 13:10:10.520[info] app start !!
+2023-05-22 13:10:31.073[info] app start !!
+2023-05-22 13:12:56.390[info] app start !!
+2023-05-22 13:14:06.805[info] app start !!
+2023-05-22 13:16:53.602[info] app start !!
+2023-05-22 13:17:19.005[info] app start !!
+2023-05-22 13:17:58.957[info] app start !!
+2023-05-22 13:18:14.437[info] app start !!
+2023-05-22 13:18:29.619[info] app start !!
+2023-05-22 13:20:00.430[info] app start !!
+2023-05-22 13:20:00.491[info] Sequelize sync success
+2023-05-22 13:20:29.236[info] app start !!
+2023-05-22 13:20:29.279[info] Sequelize sync success
+2023-05-22 14:12:54.026[info] app start !!
+2023-05-22 14:12:54.060[info] Sequelize sync success
+2023-05-22 14:13:13.295[info] app start !!
+2023-05-22 14:13:13.327[info] Sequelize sync success
+2023-05-22 14:15:14.672[info] app start !!
+2023-05-22 14:15:14.707[info] Sequelize sync success
+2023-05-22 14:15:40.911[info] app start !!
+2023-05-22 14:15:40.942[info] Sequelize sync success
+2023-05-22 14:16:36.689[info] app start !!
+2023-05-22 14:16:36.741[info] Sequelize sync success
+2023-05-22 14:17:25.542[info] app start !!
+2023-05-22 14:17:25.574[info] Sequelize sync success
+2023-05-22 14:18:43.519[info] app start !!
+2023-05-22 14:18:43.552[info] Sequelize sync success
+2023-05-22 14:19:33.349[info] app start !!
+2023-05-22 14:19:33.461[info] Sequelize sync success
+2023-05-22 14:19:39.649[info] app start !!
+2023-05-22 14:19:39.680[info] Sequelize sync success
+2023-05-22 14:20:33.362[info] app start !!
+2023-05-22 14:20:33.425[info] Sequelize sync success
+2023-05-22 14:20:35.735[info] app start !!
+2023-05-22 14:20:35.772[info] Sequelize sync success
+2023-05-22 14:20:49.443[info] app start !!
+2023-05-22 14:20:49.478[info] Sequelize sync success
+2023-05-22 14:33:27.796[info] app start !!
+2023-05-22 14:33:27.854[info] Sequelize sync success
+2023-05-22 14:34:44.650[info] app start !!
+2023-05-22 14:34:44.686[info] Sequelize sync success
+2023-05-22 14:35:16.981[info] app start !!
+2023-05-22 14:35:17.018[info] Sequelize sync success
+2023-05-22 14:36:13.460[info] app start !!
+2023-05-22 14:36:13.507[info] Sequelize sync success
+2023-05-22 14:38:18.002[info] app start !!
+2023-05-22 14:38:18.037[info] Sequelize sync success
+2023-05-22 14:38:55.325[info] app start !!
+2023-05-22 14:38:55.373[info] Sequelize sync success
+2023-05-22 14:39:43.512[info] app start !!
+2023-05-22 14:39:43.547[info] Sequelize sync success
+2023-05-22 14:39:56.962[info] app start !!
+2023-05-22 14:39:57.010[info] Sequelize sync success
+2023-05-22 14:50:16.694[info] app start !!
+2023-05-22 14:50:16.729[info] Sequelize sync success
+2023-05-22 15:05:04.280[info] app start !!
+2023-05-22 15:05:04.315[info] Sequelize sync success
+2023-05-22 15:07:48.661[info] app start !!
+2023-05-22 15:07:48.698[info] Sequelize sync success
+2023-05-22 15:08:16.908[info] app start !!
+2023-05-22 15:08:16.942[info] Sequelize sync success
+2023-05-22 15:09:52.913[info] app start !!
+2023-05-22 15:09:52.948[info] Sequelize sync success
+2023-05-22 15:10:25.862[info] app start !!
+2023-05-22 15:10:25.896[info] Sequelize sync success
+2023-05-22 15:12:38.596[info] app start !!
+2023-05-22 15:12:38.631[info] Sequelize sync success
+2023-05-22 15:13:03.277[info] app start !!
+2023-05-22 15:13:03.313[info] Sequelize sync success
+2023-05-22 15:13:27.402[info] app start !!
+2023-05-22 15:13:27.437[info] Sequelize sync success
+2023-05-22 15:14:03.297[info] app start !!
+2023-05-22 15:14:03.332[info] Sequelize sync success
+2023-05-22 15:14:05.788[info] app start !!
+2023-05-22 15:14:05.824[info] Sequelize sync success
+2023-05-22 15:15:56.541[info] app start !!
+2023-05-22 15:15:56.576[info] Sequelize sync success
+2023-05-22 15:16:11.477[info] app start !!
+2023-05-22 15:16:11.511[info] Sequelize sync success
+2023-05-22 15:16:27.470[info] app start !!
+2023-05-22 15:16:27.504[info] Sequelize sync success
+2023-05-22 15:19:03.122[info] app start !!
+2023-05-22 15:19:03.157[info] Sequelize sync success
+2023-05-22 15:20:25.620[info] app start !!
+2023-05-22 15:20:25.656[info] Sequelize sync success
+2023-05-22 15:20:53.912[info] app start !!
+2023-05-22 15:20:53.947[info] Sequelize sync success
+2023-05-22 15:21:18.887[info] app start !!
+2023-05-22 15:21:18.924[info] Sequelize sync success
+2023-05-22 15:22:48.791[info] app start !!
+2023-05-22 15:22:48.826[info] Sequelize sync success
+2023-05-22 15:24:39.002[info] app start !!
+2023-05-22 15:24:39.038[info] Sequelize sync success
+2023-05-22 15:25:46.571[info] app start !!
+2023-05-22 15:25:46.606[info] Sequelize sync success
+2023-05-22 15:25:54.262[info] app start !!
+2023-05-22 15:25:54.296[info] Sequelize sync success
+2023-05-22 15:26:07.529[info] app start !!
+2023-05-22 15:26:07.564[info] Sequelize sync success
+2023-05-22 15:26:49.030[info] app start !!
+2023-05-22 15:26:49.064[info] Sequelize sync success
+2023-05-22 15:27:27.338[info] app start !!
+2023-05-22 15:27:27.374[info] Sequelize sync success
+2023-05-22 15:28:29.433[info] app start !!
+2023-05-22 15:28:29.467[info] Sequelize sync success
+2023-05-22 15:28:38.335[info] app start !!
+2023-05-22 15:28:38.370[info] Sequelize sync success
+2023-05-22 15:30:02.125[info] app start !!
+2023-05-22 15:30:02.159[info] Sequelize sync success
+2023-05-22 15:30:39.821[info] app start !!
+2023-05-22 15:30:39.855[info] Sequelize sync success
+2023-05-22 15:30:48.845[info] 2023-05-22
+2023-05-22 15:30:48.846[info] /date : 
+  2023-5-22
+2023-05-22 15:32:08.064[info] (department.reg.params) {"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:32:08.065[error] (departmentService.reg) TypeError: Cannot read property 'create' of undefined
+2023-05-22 15:32:53.188[info] app start !!
+2023-05-22 15:32:53.223[info] Sequelize sync success
+2023-05-22 15:32:59.845[info] (department.reg.params) {"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:32:59.853[debug] (departmentService.reg) {"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T06:32:59.847Z","createdAt":"2023-05-22T06:32:59.847Z"}
+2023-05-22 15:44:58.938[info] (department.reg.params) {"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:44:58.956[error] (departmentService.reg) SequelizeUniqueConstraintError: Validation error
+2023-05-22 15:45:05.114[info] (department.reg.params) {"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:45:05.130[debug] (departmentService.reg) {"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T06:45:05.115Z","createdAt":"2023-05-22T06:45:05.115Z"}
+2023-05-22 15:45:50.100[info] (department.reg.params) {"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:45:50.117[error] (departmentService.reg) SequelizeUniqueConstraintError: Validation error
+2023-05-22 15:45:58.162[info] (department.reg.params) {"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:45:58.176[debug] (departmentService.reg) {"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T06:45:58.163Z","createdAt":"2023-05-22T06:45:58.163Z"}
+2023-05-22 15:46:01.571[info] (department.reg.params) {"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:46:01.574[debug] (departmentService.reg) {"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T06:46:01.572Z","createdAt":"2023-05-22T06:46:01.572Z"}
+2023-05-22 15:46:02.639[info] (department.reg.params) {"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:46:02.642[debug] (departmentService.reg) {"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T06:46:02.640Z","createdAt":"2023-05-22T06:46:02.640Z"}
+2023-05-22 15:46:03.376[info] (department.reg.params) {"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 15:46:03.378[debug] (departmentService.reg) {"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T06:46:03.376Z","createdAt":"2023-05-22T06:46:03.376Z"}
+2023-05-22 16:27:29.858[info] app start !!
+2023-05-22 16:27:29.895[info] Sequelize sync success
+2023-05-22 16:27:32.068[info] (department.list.params) {"id":"1","name":"승민"}
+2023-05-22 16:27:32.077[debug] (departmentService.list) {"count":6,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:28:11.582[info] app start !!
+2023-05-22 16:28:11.618[info] Sequelize sync success
+2023-05-22 16:28:13.565[info] (department.list.params) {"id":"1","name":"승민"}
+2023-05-22 16:28:13.574[debug] (departmentService.list) {"count":6,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:28:46.709[info] app start !!
+2023-05-22 16:28:46.745[info] Sequelize sync success
+2023-05-22 16:28:48.653[info] (department.list.params) {"id":"1","name":"승민"}
+2023-05-22 16:28:48.662[debug] (departmentService.list) {"count":6,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:30:48.292[info] app start !!
+2023-05-22 16:30:48.327[info] Sequelize sync success
+2023-05-22 16:30:57.580[info] (department.list.params) {"id":"1","name":"승민"}
+2023-05-22 16:30:57.589[debug] (departmentService.list) {"count":6,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:31:33.179[info] app start !!
+2023-05-22 16:31:33.214[info] Sequelize sync success
+2023-05-22 16:31:39.074[info] app start !!
+2023-05-22 16:31:39.108[info] Sequelize sync success
+2023-05-22 16:34:02.321[info] (department.list.params) {"id":"1","name":"승민"}
+2023-05-22 16:34:02.332[debug] (departmentService.list) {"count":0,"rows":[]}
+2023-05-22 16:34:04.997[info] (department.list.params) {"id":"","name":"승민"}
+2023-05-22 16:34:05.002[debug] (departmentService.list) {"count":6,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:34:08.356[info] (department.list.params) {"id":"","name":""}
+2023-05-22 16:34:08.359[debug] (departmentService.list) {"count":6,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:34:40.442[info] app start !!
+2023-05-22 16:34:40.478[info] Sequelize sync success
+2023-05-22 16:35:03.257[info] (department.list.params) {"id":"1,2,3,4,5","name":""}
+2023-05-22 16:35:03.261[error] (departmentService.list) TypeError: value.map is not a function
+2023-05-22 16:35:50.879[info] app start !!
+2023-05-22 16:35:50.913[info] Sequelize sync success
+2023-05-22 16:35:56.797[info] (department.list.params) {"id":["1","2","3","4","5"],"name":""}
+2023-05-22 16:35:56.815[debug] (departmentService.list) {"count":1,"rows":[{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:36:42.603[info] (department.list.params) {"id":["1","2","3","4","5","10"],"name":""}
+2023-05-22 16:36:42.610[debug] (departmentService.list) {"count":2,"rows":[{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:37:19.347[info] app start !!
+2023-05-22 16:37:19.384[info] Sequelize sync success
+2023-05-22 16:37:35.607[info] app start !!
+2023-05-22 16:37:35.642[info] Sequelize sync success
+2023-05-22 16:37:39.522[info] (department.list.params) {"id":["100"],"name":""}
+2023-05-22 16:37:39.529[debug] (departmentService.list) {"count":0,"rows":[]}
+2023-05-22 16:37:45.918[info] (department.list.params) {"id":["5"],"name":""}
+2023-05-22 16:37:45.923[debug] (departmentService.list) {"count":5,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null},{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null}]}
+2023-05-22 16:37:56.321[info] (department.list.params) {"id":["7"],"name":""}
+2023-05-22 16:37:56.324[debug] (departmentService.list) {"count":4,"rows":[{"id":12,"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:03.000Z","updatedAt":"2023-05-22T06:46:03.000Z","deletedAt":null},{"id":11,"name":"조승민팀5","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:02.000Z","updatedAt":"2023-05-22T06:46:02.000Z","deletedAt":null},{"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null},{"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null}]}
+2023-05-22 16:38:10.758[info] app start !!
+2023-05-22 16:38:10.793[info] Sequelize sync success
+2023-05-22 16:38:13.550[info] (department.list.params) {"id":["7"],"name":""}
+2023-05-22 16:38:13.558[debug] (departmentService.list) {"count":1,"rows":[{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:38:33.237[info] app start !!
+2023-05-22 16:38:33.271[info] Sequelize sync success
+2023-05-22 16:38:38.360[info] (department.list.params) {"id":["7"],"name":""}
+2023-05-22 16:38:38.371[debug] (departmentService.list) {"count":2,"rows":[{"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null},{"id":5,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:32:59.000Z","updatedAt":"2023-05-22T06:32:59.000Z","deletedAt":null}]}
+2023-05-22 16:39:08.517[info] app start !!
+2023-05-22 16:39:08.552[info] Sequelize sync success
+2023-05-22 16:40:03.971[info] app start !!
+2023-05-22 16:40:04.005[info] Sequelize sync success
+2023-05-22 16:40:10.717[info] (department.list.params) {"id":["7"],"name":""}
+2023-05-22 16:40:10.726[debug] (departmentService.list) {"count":1,"rows":[{"id":7,"name":"조승민팀2","code":"SMCTEAM"}]}
+2023-05-22 16:40:42.167[info] app start !!
+2023-05-22 16:40:42.202[info] Sequelize sync success
+2023-05-22 16:40:44.852[info] (department.list.params) {"id":["7"],"name":""}
+2023-05-22 16:40:44.857[error] (departmentService.list) TypeError: attr.includes is not a function
+2023-05-22 16:41:13.957[info] app start !!
+2023-05-22 16:41:13.992[info] Sequelize sync success
+2023-05-22 16:41:19.073[info] (department.list.params) {"id":["7"],"name":""}
+2023-05-22 16:41:19.082[debug] (departmentService.list) {"count":1,"rows":[{"id":7,"name":"조승민팀2","code":"SMCTEAM","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null}]}
+2023-05-22 16:44:36.207[info] app start !!
+2023-05-22 16:44:36.242[info] Sequelize sync success
+2023-05-22 16:45:04.649[info] app start !!
+2023-05-22 16:45:04.685[info] Sequelize sync success
+2023-05-22 16:46:07.726[info] app start !!
+2023-05-22 16:46:07.761[info] Sequelize sync success
+2023-05-22 16:46:14.871[info] app start !!
+2023-05-22 16:46:14.907[info] Sequelize sync success
+2023-05-22 16:47:04.510[info] (department.info.params) {"id":"1"}
+2023-05-22 16:47:04.517[debug] (departmentService.info) null
+2023-05-22 16:47:09.215[info] (department.info.params) {"id":"7"}
+2023-05-22 16:47:09.218[debug] (departmentService.info) {"id":7,"name":"조승민팀2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:05.000Z","updatedAt":"2023-05-22T06:45:05.000Z","deletedAt":null}
+2023-05-22 17:01:43.938[info] (department.info.params) {"id":"8"}
+2023-05-22 17:01:43.943[debug] (departmentService.info) null
+2023-05-22 17:01:45.434[info] (department.info.params) {"id":"9"}
+2023-05-22 17:01:45.436[debug] (departmentService.info) {"id":9,"name":"조승민팀3","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:45:58.000Z","updatedAt":"2023-05-22T06:45:58.000Z","deletedAt":null}
+2023-05-22 17:01:49.351[info] (department.info.params) {"id":"10"}
+2023-05-22 17:01:49.353[debug] (departmentService.info) {"id":10,"name":"조승민팀4","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2023-05-22T06:46:01.000Z","updatedAt":"2023-05-22T06:46:01.000Z","deletedAt":null}
+2023-05-22 17:02:31.994[info] (department.reg.params) {"name":"조승민팀6","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 17:02:32.014[error] (departmentService.reg) SequelizeUniqueConstraintError: Validation error
+2023-05-22 17:02:35.088[info] (department.reg.params) {"name":"조승민팀7","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 17:02:35.092[debug] (departmentService.reg) {"id":14,"name":"조승민팀7","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T08:02:35.089Z","createdAt":"2023-05-22T08:02:35.089Z"}
+2023-05-22 17:02:35.970[info] (department.reg.params) {"name":"조승민팀8","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 17:02:35.973[debug] (departmentService.reg) {"id":15,"name":"조승민팀8","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T08:02:35.971Z","createdAt":"2023-05-22T08:02:35.971Z"}
+2023-05-22 17:02:37.558[info] (department.reg.params) {"name":"조승민팀9","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 17:02:37.571[debug] (departmentService.reg) {"id":16,"name":"조승민팀9","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T08:02:37.559Z","createdAt":"2023-05-22T08:02:37.559Z"}
+2023-05-22 17:02:39.185[info] (department.reg.params) {"name":"조승민팀10","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 17:02:39.189[debug] (departmentService.reg) {"id":17,"name":"조승민팀10","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T08:02:39.186Z","createdAt":"2023-05-22T08:02:39.186Z"}
+2023-05-22 17:02:40.710[info] (department.reg.params) {"name":"조승민팀11","code":"SMCTEAM","description":"테스트 상세설명"}
+2023-05-22 17:02:40.724[debug] (departmentService.reg) {"id":18,"name":"조승민팀11","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2023-05-22T08:02:40.711Z","createdAt":"2023-05-22T08:02:40.711Z"}
+2023-05-22 17:03:43.360[info] app start !!
+2023-05-22 17:03:43.396[info] Sequelize sync success
+2023-05-22 17:05:45.739[info] app start !!
+2023-05-22 17:05:45.774[info] Sequelize sync success
+2023-05-22 17:07:09.086[info] app start !!
+2023-05-22 17:07:09.121[info] Sequelize sync success
+2023-05-22 17:07:42.975[info] app start !!
+2023-05-22 17:07:43.010[info] Sequelize sync success
+2023-05-22 17:07:51.049[info] app start !!
+2023-05-22 17:07:51.085[info] Sequelize sync success
+2023-05-22 17:08:00.764[info] app start !!
+2023-05-22 17:08:00.800[info] Sequelize sync success
+2023-05-22 17:08:01.289[info] app start !!
+2023-05-22 17:08:01.326[info] Sequelize sync success
+2023-05-22 17:10:34.161[info] (department.edit.params) {"id":"7","name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정"}
+2023-05-22 17:10:34.181[debug] (departmentService.edit) {"updatedCount":1}
+2023-05-22 17:13:07.244[info] app start !!
+2023-05-22 17:13:07.280[info] Sequelize sync success
+2023-05-22 17:13:20.040[info] app start !!
+2023-05-22 17:13:20.075[info] Sequelize sync success
+2023-05-22 17:13:42.641[info] app start !!
+2023-05-22 17:13:42.676[info] Sequelize sync success
+2023-05-22 17:14:15.246[info] app start !!
+2023-05-22 17:14:15.281[info] Sequelize sync success
+2023-05-22 17:14:19.925[info] app start !!
+2023-05-22 17:14:19.960[info] Sequelize sync success
+2023-05-22 17:14:27.756[info] (department.delete.params) {"id":"2"}
+2023-05-22 17:14:34.875[info] (department.delete.params) {"id":"5"}
+2023-05-22 17:14:50.117[info] app start !!
+2023-05-22 17:14:50.152[info] Sequelize sync success
