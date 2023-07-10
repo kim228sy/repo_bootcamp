@@ -1,0 +1,453 @@
+2023-05-23 09:34:03.843[info] app start !!
+2023-05-23 09:34:04.449[info] Sequelize sync success
+2023-05-23 09:34:10.711[info] app start !!
+2023-05-23 09:34:10.786[info] Sequelize sync success
+2023-05-23 09:34:35.990[info] app start !!
+2023-05-23 09:34:36.088[info] Sequelize sync success
+2023-05-23 09:46:54.684[info] app start !!
+2023-05-23 09:46:54.761[info] Sequelize sync success
+2023-05-23 09:47:38.238[info] app start !!
+2023-05-23 09:47:38.315[info] Sequelize sync success
+2023-05-23 09:48:21.288[info] app start !!
+2023-05-23 09:48:21.357[info] Sequelize sync success
+2023-05-23 10:13:52.622[info] app start !!
+2023-05-23 10:13:52.690[info] Sequelize sync success
+2023-05-23 10:15:28.649[info] app start !!
+2023-05-23 10:15:28.721[info] Sequelize sync success
+2023-05-23 10:16:09.721[info] app start !!
+2023-05-23 10:16:09.830[info] Sequelize sync success
+2023-05-23 10:19:07.394[info] app start !!
+2023-05-23 10:19:07.472[info] Sequelize sync success
+2023-05-23 11:35:11.465[info] app start !!
+2023-05-23 11:35:11.514[info] Sequelize sync success
+2023-05-23 11:35:20.902[info] (department.reg.params) {"name":"영업팀","code":"sales"}
+2023-05-23 11:35:20.909[debug] (departmentService.reg) {"id":12,"name":"영업팀","code":"sales","updatedAt":"2023-05-23T02:35:20.903Z","createdAt":"2023-05-23T02:35:20.903Z"}
+2023-05-23 11:35:47.761[info] (department.reg.params) {"name":"마케팅팀","code":"marketing"}
+2023-05-23 11:35:47.779[debug] (departmentService.reg) {"id":13,"name":"마케팅팀","code":"marketing","updatedAt":"2023-05-23T02:35:47.763Z","createdAt":"2023-05-23T02:35:47.763Z"}
+2023-05-23 11:36:42.238[info] app start !!
+2023-05-23 11:36:42.277[info] Sequelize sync success
+2023-05-23 11:36:49.749[info] app start !!
+2023-05-23 11:36:49.790[info] Sequelize sync success
+2023-05-23 11:36:51.047[info] app start !!
+2023-05-23 11:36:51.090[info] Sequelize sync success
+2023-05-23 11:36:51.592[info] app start !!
+2023-05-23 11:36:51.636[info] Sequelize sync success
+2023-05-23 11:37:24.899[info] app start !!
+2023-05-23 11:37:24.949[info] Sequelize sync success
+2023-05-23 11:37:35.221[info] app start !!
+2023-05-23 11:37:35.262[info] Sequelize sync success
+2023-05-23 11:37:53.395[info] app start !!
+2023-05-23 11:37:53.437[info] Sequelize sync success
+2023-05-23 11:37:57.255[info] app start !!
+2023-05-23 11:37:57.295[info] Sequelize sync success
+2023-05-23 11:38:25.950[info] app start !!
+2023-05-23 11:38:25.992[info] Sequelize sync success
+2023-05-23 11:38:38.071[info] app start !!
+2023-05-23 11:38:38.113[info] Sequelize sync success
+2023-05-23 11:40:08.714[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 11:40:08.724[debug] (userService.reg) {"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T02:40:08.716Z","createdAt":"2023-05-23T02:40:08.716Z"}
+2023-05-23 11:40:08.724[info] (user.reg.result) {"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T02:40:08.716Z","createdAt":"2023-05-23T02:40:08.716Z"}
+2023-05-23 13:10:06.842[info] (department.info.params) {"id":"1"}
+2023-05-23 13:10:06.862[debug] (departmentService.info) {"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}
+2023-05-23 13:10:12.665[info] (department.info.params) {"id":"2"}
+2023-05-23 13:10:12.669[debug] (departmentService.info) null
+2023-05-23 13:10:16.889[info] (department.info.params) {"id":"3"}
+2023-05-23 13:10:16.896[debug] (departmentService.info) null
+2023-05-23 13:10:19.369[info] (department.info.params) {"id":"1"}
+2023-05-23 13:10:19.376[debug] (departmentService.info) {"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}
+2023-05-23 13:12:26.323[info] (user.list.params) {"name":"","userid":""}
+2023-05-23 13:12:26.345[debug] (userService.list) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:12:26.345[info] (user.list.result) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:14:45.029[info] app start !!
+2023-05-23 13:14:45.073[info] Sequelize sync success
+2023-05-23 13:14:54.219[info] app start !!
+2023-05-23 13:14:54.261[info] Sequelize sync success
+2023-05-23 13:15:00.574[info] (user.list.params) {"name":"","userid":""}
+2023-05-23 13:15:00.592[debug] (userService.list) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:15:00.593[info] (user.list.result) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:15:23.723[info] app start !!
+2023-05-23 13:15:23.761[info] Sequelize sync success
+2023-05-23 13:15:38.264[info] (user.list.params) {"name":""}
+2023-05-23 13:15:38.281[debug] (userService.list) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:15:38.281[info] (user.list.result) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:16:25.735[info] (user.list.params) {"name":""}
+2023-05-23 13:16:25.754[debug] (userService.list) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:16:25.754[info] (user.list.result) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:16:51.739[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:16:51.758[debug] (userService.list) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:16:51.759[info] (user.list.result) {"count":2,"rows":[{"id":3,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T02:40:08.000Z","updatedAt":"2023-05-23T02:40:08.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T02:14:07.000Z","updatedAt":"2023-05-23T02:14:07.000Z","deletedAt":null}},{"id":1,"departmentId":null,"name":"김씨","userid":"uvc","role":null,"email":"test@gmail.com","phone":"000-0000-0000","updatedPwDate":null,"createdAt":"2023-05-23T00:00:00.000Z","updatedAt":"2023-05-23T00:00:00.000Z","deletedAt":null,"Department":null}]}
+2023-05-23 13:17:20.739[info] app start !!
+2023-05-23 13:17:20.784[info] Sequelize sync success
+2023-05-23 13:17:27.069[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:17:27.082[error] (userService.list) SequelizeDatabaseError: Unknown column 'User.user_id' in 'field list'
+2023-05-23 13:17:34.872[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:17:34.886[error] (userService.list) SequelizeDatabaseError: Unknown column 'User.user_id' in 'field list'
+2023-05-23 13:18:41.695[info] app start !!
+2023-05-23 13:18:41.752[info] Sequelize sync success
+2023-05-23 13:19:30.641[info] (user.list.params) {"name":""}
+2023-05-23 13:19:30.658[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 13:19:30.658[info] (user.list.result) {"count":0,"rows":[]}
+2023-05-23 13:21:01.171[info] app start !!
+2023-05-23 13:21:01.240[info] Sequelize sync success
+2023-05-23 13:21:38.609[info] (department.reg.params) {"name":"개발팀","code":"dev"}
+2023-05-23 13:21:38.619[debug] (departmentService.reg) {"id":1,"name":"개발팀","code":"dev","updatedAt":"2023-05-23T04:21:38.610Z","createdAt":"2023-05-23T04:21:38.610Z"}
+2023-05-23 13:21:56.067[info] (department.reg.params) {"name":"영업팀","code":"sales"}
+2023-05-23 13:21:56.080[debug] (departmentService.reg) {"id":2,"name":"영업팀","code":"sales","updatedAt":"2023-05-23T04:21:56.068Z","createdAt":"2023-05-23T04:21:56.068Z"}
+2023-05-23 13:22:07.421[info] (department.reg.params) {"name":"마케팅팀","code":"marketing"}
+2023-05-23 13:22:07.440[debug] (departmentService.reg) {"id":3,"name":"마케팅팀","code":"marketing","updatedAt":"2023-05-23T04:22:07.422Z","createdAt":"2023-05-23T04:22:07.422Z"}
+2023-05-23 13:22:47.358[info] (user.reg.params) {"departmentId":1,"name":"김개발","userId":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 13:22:47.375[debug] (userService.reg) {"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T04:22:47.361Z","createdAt":"2023-05-23T04:22:47.361Z"}
+2023-05-23 13:22:47.376[info] (user.reg.result) {"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T04:22:47.361Z","createdAt":"2023-05-23T04:22:47.361Z"}
+2023-05-23 13:23:07.609[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:23:07.630[debug] (userService.list) {"count":1,"rows":[{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:23:07.630[info] (user.list.result) {"count":1,"rows":[{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:25:05.183[info] (department.info.params) {"id":"2"}
+2023-05-23 13:25:05.202[debug] (departmentService.info) {"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}
+2023-05-23 13:25:12.426[info] (user.reg.params) {"departmentId":2,"name":"이영업","userId":"lee","password":"1","role":"member","email":"lee@email.com","phone":"010-1234-5678"}
+2023-05-23 13:25:12.433[debug] (userService.reg) {"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T04:25:12.427Z","createdAt":"2023-05-23T04:25:12.427Z"}
+2023-05-23 13:25:12.433[info] (user.reg.result) {"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T04:25:12.427Z","createdAt":"2023-05-23T04:25:12.427Z"}
+2023-05-23 13:25:17.639[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:25:17.653[debug] (userService.list) {"count":2,"rows":[{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:25:17.654[info] (user.list.result) {"count":2,"rows":[{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:25:56.381[info] (user.reg.params) {"departmentId":3,"name":"박마케팅","userId":"park","password":"1","role":"member","email":"park@email.com","phone":"010-1234-5678"}
+2023-05-23 13:25:56.396[debug] (userService.reg) {"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T04:25:56.382Z","createdAt":"2023-05-23T04:25:56.382Z"}
+2023-05-23 13:25:56.397[info] (user.reg.result) {"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T04:25:56.382Z","createdAt":"2023-05-23T04:25:56.382Z"}
+2023-05-23 13:26:12.475[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:26:12.497[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"id":3,"name":"마케팅팀","code":"marketing","description":null,"createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:26:12.498[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"id":3,"name":"마케팅팀","code":"marketing","description":null,"createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:27:06.712[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:27:06.727[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"id":3,"name":"마케팅팀","code":"marketing","description":null,"createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:27:06.727[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"id":3,"name":"마케팅팀","code":"marketing","description":null,"createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:27:07.738[info] (user.list.params) {"name":"","userId":""}
+2023-05-23 13:27:07.741[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"id":3,"name":"마케팅팀","code":"marketing","description":null,"createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:27:07.741[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"id":3,"name":"마케팅팀","code":"marketing","description":null,"createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}]}
+2023-05-23 13:29:15.217[info] app start !!
+2023-05-23 13:29:15.258[info] Sequelize sync success
+2023-05-23 13:29:48.153[info] app start !!
+2023-05-23 13:29:48.191[info] Sequelize sync success
+2023-05-23 13:30:11.315[info] app start !!
+2023-05-23 13:30:11.356[info] Sequelize sync success
+2023-05-23 13:30:39.295[info] app start !!
+2023-05-23 13:30:39.337[info] Sequelize sync success
+2023-05-23 13:31:13.232[info] app start !!
+2023-05-23 13:31:13.274[info] Sequelize sync success
+2023-05-23 13:35:48.329[info] (user.list.params) {"userId":"1"}
+2023-05-23 13:35:48.356[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 13:35:48.357[info] (user.list.result) {"count":0,"rows":[]}
+2023-05-23 13:36:18.567[info] (user.list.params) {"userId":"1"}
+2023-05-23 13:36:18.585[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 13:36:18.585[info] (user.list.result) {"count":0,"rows":[]}
+2023-05-23 13:36:29.355[info] (user.list.params) {}
+2023-05-23 13:36:29.380[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:36:29.380[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:36:41.458[info] (user.list.params) {}
+2023-05-23 13:36:41.477[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:36:41.478[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:37:57.709[info] (user.list.params) {}
+2023-05-23 13:37:57.733[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:37:57.734[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:38:02.198[info] (user.list.params) {}
+2023-05-23 13:38:02.208[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:38:02.209[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:38:05.002[info] (user.list.params) {}
+2023-05-23 13:38:05.014[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:38:05.015[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:42:03.737[info] app start !!
+2023-05-23 13:42:03.778[info] Sequelize sync success
+2023-05-23 13:42:10.157[info] app start !!
+2023-05-23 13:42:10.198[info] Sequelize sync success
+2023-05-23 13:47:18.259[info] app start !!
+2023-05-23 13:47:18.301[info] Sequelize sync success
+2023-05-23 13:47:22.934[info] (department.list.params) {"id":null}
+2023-05-23 13:47:22.946[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"마케팅팀","code":"marketing","createdAt":"2023-05-23T04:22:07.000Z","updatedAt":"2023-05-23T04:22:07.000Z","deletedAt":null},{"id":2,"name":"영업팀","code":"sales","createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null},{"id":1,"name":"개발팀","code":"dev","createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}]}
+2023-05-23 13:47:39.718[info] (department.list.params) {"id":["1"]}
+2023-05-23 13:47:39.735[debug] (departmentService.list) {"count":1,"rows":[{"id":1,"name":"개발팀","code":"dev","createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}]}
+2023-05-23 13:48:00.162[info] (user.list.params) {}
+2023-05-23 13:48:00.186[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:48:00.186[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userId":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:56.000Z","updatedAt":"2023-05-23T04:25:56.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userId":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userId":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 13:48:37.557[info] (department.info.params) {"id":"1"}
+2023-05-23 13:48:37.571[debug] (userService.info) {"id":1,"departmentId":1,"name":"김개발","userId":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:22:47.000Z","updatedAt":"2023-05-23T04:22:47.000Z","deletedAt":null,"Department":{"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}}
+2023-05-23 13:49:05.837[info] (department.info.params) {"id":"1"}
+2023-05-23 13:49:05.850[debug] (departmentService.info) {"id":1,"name":"개발팀","code":"dev","description":null,"createdAt":"2023-05-23T04:21:38.000Z","updatedAt":"2023-05-23T04:21:38.000Z","deletedAt":null}
+2023-05-23 13:51:46.202[info] app start !!
+2023-05-23 13:51:46.244[info] Sequelize sync success
+2023-05-23 13:52:43.675[info] (department.info.params) {"id":"2"}
+2023-05-23 13:52:43.695[debug] (userService.info) {"id":2,"departmentId":2,"name":"이영업","userId":"lee","password":"1","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T04:25:12.000Z","updatedAt":"2023-05-23T04:25:12.000Z","deletedAt":null,"Department":{"id":2,"name":"영업팀","code":"sales","description":null,"createdAt":"2023-05-23T04:21:56.000Z","updatedAt":"2023-05-23T04:21:56.000Z","deletedAt":null}}
+2023-05-23 13:53:13.387[info] (department.delete.params) {"id":"1"}
+2023-05-23 13:55:28.499[info] (department.edit.params) {"id":"1"}
+2023-05-23 13:55:28.524[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 13:56:16.377[info] (department.edit.params) {"id":"1"}
+2023-05-23 13:56:16.394[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 13:56:27.256[info] (department.edit.params) {"id":"2"}
+2023-05-23 13:56:27.272[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 13:56:27.613[info] (department.edit.params) {"id":"2"}
+2023-05-23 13:56:27.619[debug] (userService.edit) {"updatedCount":0}
+2023-05-23 13:56:29.691[info] (department.edit.params) {"id":"1"}
+2023-05-23 13:56:29.698[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 13:56:31.968[info] (department.edit.params) {"id":"3"}
+2023-05-23 13:56:31.975[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 13:56:34.577[info] (department.edit.params) {"id":"2"}
+2023-05-23 13:56:34.597[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 13:58:41.658[info] (department.edit.params) {"id":"1","departmentId":1,"name":"김개발","role":"member","email":"kim@email.com","phone":"010-2345-5678"}
+2023-05-23 13:58:41.664[debug] (userService.edit) {"updatedCount":1}
+2023-05-23 14:08:22.769[info] app start !!
+2023-05-23 14:08:22.813[info] Sequelize sync success
+2023-05-23 14:08:24.522[info] app start !!
+2023-05-23 14:08:24.566[info] Sequelize sync success
+2023-05-23 14:09:42.394[info] app start !!
+2023-05-23 14:09:42.437[info] Sequelize sync success
+2023-05-23 14:12:57.062[info] app start !!
+2023-05-23 14:12:57.100[info] Sequelize sync success
+2023-05-23 14:12:57.832[info] app start !!
+2023-05-23 14:12:57.865[info] Sequelize sync success
+2023-05-23 14:15:37.377[info] app start !!
+2023-05-23 14:15:37.444[info] Sequelize sync success
+2023-05-23 14:18:05.345[info] (department.reg.params) {"name":"개발팀","code":"dev"}
+2023-05-23 14:18:05.355[debug] (departmentService.reg) {"id":1,"name":"개발팀","code":"dev","updatedAt":"2023-05-23T05:18:05.347Z","createdAt":"2023-05-23T05:18:05.347Z"}
+2023-05-23 14:18:21.579[info] (department.reg.params) {"name":"영업팀","code":"sales"}
+2023-05-23 14:18:21.595[debug] (departmentService.reg) {"id":2,"name":"영업팀","code":"sales","updatedAt":"2023-05-23T05:18:21.580Z","createdAt":"2023-05-23T05:18:21.580Z"}
+2023-05-23 14:18:36.336[info] (department.reg.params) {"name":"마케팅팀","code":"marketing"}
+2023-05-23 14:18:36.353[debug] (departmentService.reg) {"id":3,"name":"마케팅팀","code":"marketing","updatedAt":"2023-05-23T05:18:36.337Z","createdAt":"2023-05-23T05:18:36.337Z"}
+2023-05-23 14:19:08.225[info] (user.reg.params) {"departmentId":1,"name":"김개발","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 14:22:42.505[info] app start !!
+2023-05-23 14:22:42.542[info] Sequelize sync success
+2023-05-23 14:23:30.051[info] app start !!
+2023-05-23 14:23:30.092[info] Sequelize sync success
+2023-05-23 14:24:27.268[info] app start !!
+2023-05-23 14:24:27.302[info] Sequelize sync success
+2023-05-23 14:24:28.212[info] app start !!
+2023-05-23 14:24:28.244[info] Sequelize sync success
+2023-05-23 14:47:23.485[info] app start !!
+2023-05-23 14:47:23.528[info] Sequelize sync success
+2023-05-23 14:47:43.171[info] (user.reg.params) {"departmentId":1,"name":"김개발","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 14:47:43.171[error] Error: Not allowed null (name, userId, password)
+2023-05-23 14:47:43.186[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 14:48:57.060[info] app start !!
+2023-05-23 14:48:57.096[info] Sequelize sync success
+2023-05-23 14:49:15.285[info] app start !!
+2023-05-23 14:49:15.322[info] Sequelize sync success
+2023-05-23 14:49:32.242[info] app start !!
+2023-05-23 14:49:32.277[info] Sequelize sync success
+2023-05-23 14:51:28.385[info] (department.list.params) {"id":null}
+2023-05-23 14:51:28.394[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"마케팅팀","code":"marketing","createdAt":"2023-05-23T05:18:36.000Z","updatedAt":"2023-05-23T05:18:36.000Z","deletedAt":null},{"id":2,"name":"영업팀","code":"sales","createdAt":"2023-05-23T05:18:21.000Z","updatedAt":"2023-05-23T05:18:21.000Z","deletedAt":null},{"id":1,"name":"개발팀","code":"dev","createdAt":"2023-05-23T05:18:05.000Z","updatedAt":"2023-05-23T05:18:05.000Z","deletedAt":null}]}
+2023-05-23 14:51:51.768[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 14:51:51.776[error] (userService.list) SequelizeDatabaseError: Unknown column 'User.userid' in 'where clause'
+2023-05-23 14:52:18.691[info] app start !!
+2023-05-23 14:52:18.750[info] Sequelize sync success
+2023-05-23 14:52:32.741[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 14:52:32.761[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 14:52:32.761[info] (user.reg.result) {"count":0,"rows":[]}
+2023-05-23 14:52:57.922[info] (user.reg.params) {"departmentId":2,"name":"이영업","userid":"lee","password":"2","role":"member","email":"lee@email.com","phone":"010-1234-5678"}
+2023-05-23 14:52:57.941[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 14:52:57.941[info] (user.reg.result) {"count":0,"rows":[]}
+2023-05-23 14:53:15.758[info] (user.reg.params) {"departmentId":3,"name":"박마케팅","userid":"park","password":"3","role":"member","email":"park@email.com","phone":"010-1234-5678"}
+2023-05-23 14:53:15.776[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 14:53:15.776[info] (user.reg.result) {"count":0,"rows":[]}
+2023-05-23 14:53:19.869[info] (user.list.params) {"name":""}
+2023-05-23 14:53:31.183[info] (user.list.params) {}
+2023-05-23 14:53:42.317[info] (user.list.params) {"name":""}
+2023-05-23 15:00:26.121[info] app start !!
+2023-05-23 15:00:26.167[info] Sequelize sync success
+2023-05-23 15:02:16.548[info] app start !!
+2023-05-23 15:02:16.593[info] Sequelize sync success
+2023-05-23 15:04:12.879[info] app start !!
+2023-05-23 15:04:12.925[info] Sequelize sync success
+2023-05-23 15:04:16.493[info] app start !!
+2023-05-23 15:04:16.537[info] Sequelize sync success
+2023-05-23 15:04:20.150[info] (user.list.params) {"name":""}
+2023-05-23 15:04:20.167[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 15:04:20.167[info] (user.list.result) {"count":0,"rows":[]}
+2023-05-23 15:04:38.735[info] (user.list.params) {"name":""}
+2023-05-23 15:04:38.754[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 15:04:38.754[info] (user.list.result) {"count":0,"rows":[]}
+2023-05-23 15:04:53.726[info] (user.list.params) {}
+2023-05-23 15:04:53.747[debug] (userService.list) {"count":0,"rows":[]}
+2023-05-23 15:04:53.747[info] (user.list.result) {"count":0,"rows":[]}
+2023-05-23 15:05:24.516[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 15:05:24.518[debug] (userService.makePassword) "1"
+2023-05-23 15:05:24.526[debug] (userService.reg) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T06:05:24.519Z","createdAt":"2023-05-23T06:05:24.519Z"}
+2023-05-23 15:05:24.527[info] (user.reg.result) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T06:05:24.519Z","createdAt":"2023-05-23T06:05:24.519Z"}
+2023-05-23 15:05:49.865[info] (user.reg.params) {"departmentId":2,"name":"이영업","userid":"lee","password":"2","role":"member","email":"lee@email.com","phone":"010-1234-5678"}
+2023-05-23 15:05:49.870[debug] (userService.makePassword) "2"
+2023-05-23 15:05:49.886[debug] (userService.reg) {"id":2,"departmentId":2,"name":"이영업","userid":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T06:05:49.872Z","createdAt":"2023-05-23T06:05:49.872Z"}
+2023-05-23 15:05:49.886[info] (user.reg.result) {"id":2,"departmentId":2,"name":"이영업","userid":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T06:05:49.872Z","createdAt":"2023-05-23T06:05:49.872Z"}
+2023-05-23 15:06:11.256[info] (user.reg.params) {"departmentId":3,"name":"박마케팅","userid":"park","password":"3","role":"member","email":"park@email.com","phone":"010-1234-5678"}
+2023-05-23 15:06:11.261[debug] (userService.makePassword) "3"
+2023-05-23 15:06:11.281[debug] (userService.reg) {"id":3,"departmentId":3,"name":"박마케팅","userid":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T06:06:11.265Z","createdAt":"2023-05-23T06:06:11.265Z"}
+2023-05-23 15:06:11.281[info] (user.reg.result) {"id":3,"departmentId":3,"name":"박마케팅","userid":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T06:06:11.265Z","createdAt":"2023-05-23T06:06:11.265Z"}
+2023-05-23 15:06:14.206[info] (user.list.params) {}
+2023-05-23 15:06:14.225[debug] (userService.list) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userid":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:06:11.000Z","updatedAt":"2023-05-23T06:06:11.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userid":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:49.000Z","updatedAt":"2023-05-23T06:05:49.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:24.000Z","updatedAt":"2023-05-23T06:05:24.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 15:06:14.225[info] (user.list.result) {"count":3,"rows":[{"id":3,"departmentId":3,"name":"박마케팅","userid":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:06:11.000Z","updatedAt":"2023-05-23T06:06:11.000Z","deletedAt":null,"Department":{"name":"마케팅팀","code":"marketing"}},{"id":2,"departmentId":2,"name":"이영업","userid":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:49.000Z","updatedAt":"2023-05-23T06:05:49.000Z","deletedAt":null,"Department":{"name":"영업팀","code":"sales"}},{"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:24.000Z","updatedAt":"2023-05-23T06:05:24.000Z","deletedAt":null,"Department":{"name":"개발팀","code":"dev"}}]}
+2023-05-23 15:13:46.238[info] app start !!
+2023-05-23 15:13:46.293[info] Sequelize sync success
+2023-05-23 15:14:42.224[info] app start !!
+2023-05-23 15:14:42.278[info] Sequelize sync success
+2023-05-23 15:19:58.229[info] app start !!
+2023-05-23 15:19:58.277[info] Sequelize sync success
+2023-05-23 15:22:32.102[info] app start !!
+2023-05-23 15:22:32.147[info] Sequelize sync success
+2023-05-23 16:24:02.348[info] app start !!
+2023-05-23 16:24:02.402[info] Sequelize sync success
+2023-05-23 16:26:37.270[info] app start !!
+2023-05-23 16:26:37.315[info] Sequelize sync success
+2023-05-23 16:26:45.715[info] app start !!
+2023-05-23 16:26:45.760[info] Sequelize sync success
+2023-05-23 16:31:43.928[info] app start !!
+2023-05-23 16:31:43.973[info] Sequelize sync success
+2023-05-23 16:31:49.786[info] (user.reg.params) {"userid":"test1","password":"test1"}
+2023-05-23 16:31:49.793[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"$salt}.706ffeebac312415493f62193499b98a7a074e6624097ac532986035401b879b3b0590d07fcb63a7fb0a1bf4c916a653afb7d73ce8d7feabc9d31a24609a1cc1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:24.000Z","updatedAt":"2023-05-23T06:05:24.000Z","deletedAt":null}
+2023-05-23 16:31:49.795[debug] (userService.checkPassword) false
+2023-05-23 16:31:49.795[error] Error: Incorrect userid or password
+2023-05-23 16:32:47.082[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 16:32:47.093[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"$salt}.706ffeebac312415493f62193499b98a7a074e6624097ac532986035401b879b3b0590d07fcb63a7fb0a1bf4c916a653afb7d73ce8d7feabc9d31a24609a1cc1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:24.000Z","updatedAt":"2023-05-23T06:05:24.000Z","deletedAt":null}
+2023-05-23 16:32:47.096[debug] (userService.checkPassword) false
+2023-05-23 16:32:47.096[error] Error: Incorrect userid or password
+2023-05-23 16:33:33.940[info] (user.reg.params) {"userid":"park","password":"3"}
+2023-05-23 16:33:33.955[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"$salt}.706ffeebac312415493f62193499b98a7a074e6624097ac532986035401b879b3b0590d07fcb63a7fb0a1bf4c916a653afb7d73ce8d7feabc9d31a24609a1cc1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T06:05:24.000Z","updatedAt":"2023-05-23T06:05:24.000Z","deletedAt":null}
+2023-05-23 16:33:33.957[debug] (userService.checkPassword) false
+2023-05-23 16:33:33.957[error] Error: Incorrect userid or password
+2023-05-23 16:34:33.872[info] app start !!
+2023-05-23 16:34:33.917[info] Sequelize sync success
+2023-05-23 16:34:51.100[info] app start !!
+2023-05-23 16:34:51.167[info] Sequelize sync success
+2023-05-23 16:35:11.970[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 16:35:30.121[info] app start !!
+2023-05-23 16:35:30.170[info] Sequelize sync success
+2023-05-23 16:35:44.017[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 16:37:21.783[info] app start !!
+2023-05-23 16:37:21.824[info] Sequelize sync success
+2023-05-23 16:37:26.234[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 16:37:26.235[error] (userService.makePassword) ReferenceError: salt is not defined
+2023-05-23 16:37:40.250[info] app start !!
+2023-05-23 16:37:40.293[info] Sequelize sync success
+2023-05-23 16:37:44.952[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-23 16:37:44.953[debug] (userService.makePassword) "1"
+2023-05-23 16:37:44.962[debug] (userService.reg) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T07:37:44.954Z","createdAt":"2023-05-23T07:37:44.954Z"}
+2023-05-23 16:37:44.962[info] (user.reg.result) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T07:37:44.954Z","createdAt":"2023-05-23T07:37:44.954Z"}
+2023-05-23 16:38:16.567[info] (user.reg.params) {"departmentId":2,"name":"이영업","userid":"lee","password":"2","role":"member","email":"lee@email.com","phone":"010-1234-5678"}
+2023-05-23 16:38:16.572[debug] (userService.makePassword) "2"
+2023-05-23 16:38:16.585[debug] (userService.reg) {"id":2,"departmentId":2,"name":"이영업","userid":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T07:38:16.573Z","createdAt":"2023-05-23T07:38:16.573Z"}
+2023-05-23 16:38:16.588[info] (user.reg.result) {"id":2,"departmentId":2,"name":"이영업","userid":"lee","role":"member","email":"lee@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T07:38:16.573Z","createdAt":"2023-05-23T07:38:16.573Z"}
+2023-05-23 16:38:34.905[info] (user.reg.params) {"departmentId":3,"name":"박마케팅","userid":"park","password":"3","role":"member","email":"park@email.com","phone":"010-1234-5678"}
+2023-05-23 16:38:34.906[debug] (userService.makePassword) "3"
+2023-05-23 16:38:34.911[debug] (userService.reg) {"id":3,"departmentId":3,"name":"박마케팅","userid":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T07:38:34.906Z","createdAt":"2023-05-23T07:38:34.906Z"}
+2023-05-23 16:38:34.912[info] (user.reg.result) {"id":3,"departmentId":3,"name":"박마케팅","userid":"park","role":"member","email":"park@email.com","phone":"010-1234-5678","updatedAt":"2023-05-23T07:38:34.906Z","createdAt":"2023-05-23T07:38:34.906Z"}
+2023-05-23 16:38:49.919[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 16:38:49.938[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 16:38:49.939[debug] (userService.checkPassword) true
+2023-05-23 16:39:00.531[info] app start !!
+2023-05-23 16:39:00.582[info] Sequelize sync success
+2023-05-23 16:39:01.697[info] app start !!
+2023-05-23 16:39:01.740[info] Sequelize sync success
+2023-05-23 16:39:18.560[info] app start !!
+2023-05-23 16:39:18.602[info] Sequelize sync success
+2023-05-23 16:42:09.050[info] app start !!
+2023-05-23 16:42:09.092[info] Sequelize sync success
+2023-05-23 16:42:30.007[info] app start !!
+2023-05-23 16:42:30.046[info] Sequelize sync success
+2023-05-23 16:43:00.726[info] app start !!
+2023-05-23 16:43:00.771[info] Sequelize sync success
+2023-05-23 16:43:03.960[info] app start !!
+2023-05-23 16:43:04.002[info] Sequelize sync success
+2023-05-23 16:45:08.042[info] app start !!
+2023-05-23 16:45:08.085[info] Sequelize sync success
+2023-05-23 16:45:39.490[info] app start !!
+2023-05-23 16:45:39.536[info] Sequelize sync success
+2023-05-23 16:45:51.402[info] app start !!
+2023-05-23 16:45:51.447[info] Sequelize sync success
+2023-05-23 16:45:55.633[info] app start !!
+2023-05-23 16:45:55.676[info] Sequelize sync success
+2023-05-23 16:46:13.921[info] app start !!
+2023-05-23 16:46:13.964[info] Sequelize sync success
+2023-05-23 16:46:29.577[info] app start !!
+2023-05-23 16:46:29.622[info] Sequelize sync success
+2023-05-23 16:46:35.947[info] app start !!
+2023-05-23 16:46:35.989[info] Sequelize sync success
+2023-05-23 16:48:36.901[info] app start !!
+2023-05-23 16:48:36.956[info] Sequelize sync success
+2023-05-23 16:49:17.876[info] app start !!
+2023-05-23 16:49:17.922[info] Sequelize sync success
+2023-05-23 16:49:22.693[info] app start !!
+2023-05-23 16:49:22.737[info] Sequelize sync success
+2023-05-23 16:49:34.689[info] app start !!
+2023-05-23 16:49:34.733[info] Sequelize sync success
+2023-05-23 16:51:11.311[info] app start !!
+2023-05-23 16:51:11.358[info] Sequelize sync success
+2023-05-23 16:51:12.483[info] app start !!
+2023-05-23 16:51:12.526[info] Sequelize sync success
+2023-05-23 16:51:28.079[info] app start !!
+2023-05-23 16:51:28.119[info] Sequelize sync success
+2023-05-23 16:51:55.826[info] app start !!
+2023-05-23 16:51:55.868[info] Sequelize sync success
+2023-05-23 16:51:56.286[info] app start !!
+2023-05-23 16:51:56.328[info] Sequelize sync success
+2023-05-23 16:54:22.013[info] app start !!
+2023-05-23 16:54:22.060[info] Sequelize sync success
+2023-05-23 16:57:38.799[info] app start !!
+2023-05-23 16:57:38.846[info] Sequelize sync success
+2023-05-23 16:58:15.367[info] app start !!
+2023-05-23 16:58:15.414[info] Sequelize sync success
+2023-05-23 16:58:18.423[error] Error: 토큰이 없습니다.
+2023-05-23 16:58:23.571[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 16:58:23.588[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 16:58:23.592[debug] (userService.checkPassword) true
+2023-05-23 17:03:10.990[info] app start !!
+2023-05-23 17:03:11.034[info] Sequelize sync success
+2023-05-23 17:03:39.658[info] app start !!
+2023-05-23 17:03:39.700[info] Sequelize sync success
+2023-05-23 17:03:43.472[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:03:43.477[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:03:43.479[debug] (userService.checkPassword) true
+2023-05-23 17:05:11.850[info] app start !!
+2023-05-23 17:05:11.893[info] Sequelize sync success
+2023-05-23 17:05:15.754[info] app start !!
+2023-05-23 17:05:15.798[info] Sequelize sync success
+2023-05-23 17:05:36.526[info] app start !!
+2023-05-23 17:05:36.566[info] Sequelize sync success
+2023-05-23 17:05:52.464[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:05:52.471[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:05:52.472[debug] (userService.checkPassword) true
+2023-05-23 17:06:45.044[info] app start !!
+2023-05-23 17:06:45.087[info] Sequelize sync success
+2023-05-23 17:06:56.092[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:06:56.100[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:06:56.101[debug] (userService.checkPassword) true
+2023-05-23 17:07:07.329[info] app start !!
+2023-05-23 17:07:07.369[info] Sequelize sync success
+2023-05-23 17:07:12.878[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:07:12.884[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:07:12.885[debug] (userService.checkPassword) true
+2023-05-23 17:09:34.612[info] app start !!
+2023-05-23 17:09:34.662[info] Sequelize sync success
+2023-05-23 17:09:38.370[info] app start !!
+2023-05-23 17:09:38.420[info] Sequelize sync success
+2023-05-23 17:09:48.619[info] app start !!
+2023-05-23 17:09:48.661[info] Sequelize sync success
+2023-05-23 17:10:12.191[info] app start !!
+2023-05-23 17:10:12.231[info] Sequelize sync success
+2023-05-23 17:10:26.498[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:10:26.505[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:10:26.507[debug] (userService.checkPassword) true
+2023-05-23 17:10:26.507[info] (user.token.result) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:11:57.533[info] app start !!
+2023-05-23 17:11:57.579[info] Sequelize sync success
+2023-05-23 17:12:01.244[info] app start !!
+2023-05-23 17:12:01.285[info] Sequelize sync success
+2023-05-23 17:12:04.026[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:12:04.031[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:12:04.032[debug] (userService.checkPassword) true
+2023-05-23 17:12:04.033[info] (user.token.result) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:13:01.439[info] app start !!
+2023-05-23 17:13:01.481[info] Sequelize sync success
+2023-05-23 17:13:12.908[info] app start !!
+2023-05-23 17:13:12.948[info] Sequelize sync success
+2023-05-23 17:13:27.904[info] app start !!
+2023-05-23 17:13:27.943[info] Sequelize sync success
+2023-05-23 17:15:48.163[info] (user.reg.params) {"userid":"kim","password":"1"}
+2023-05-23 17:15:48.171[debug] (userService.login) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:15:48.172[debug] (userService.checkPassword) true
+2023-05-23 17:15:48.172[info] (user.token.result) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","password":"x9uDDl+Y/YCutku44Bon7nLcHMasgJyXVRUjkoU+MRXd6wc8EdYuajY1yKmyUWBj16d+RueaNd+TWrod2zA4mQ==.e11e909aeab6bc729ba7cf4018b54650fa72b115db7ed0480bfb02b540d841be8d6ae92ea5a53463eb0a262db53a28d0fecdad87aa255a64f4f778f2efbd71a5","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-23T07:37:44.000Z","updatedAt":"2023-05-23T07:37:44.000Z","deletedAt":null}
+2023-05-23 17:16:05.657[error] Error: 토큰이 없습니다.
+2023-05-23 17:23:28.035[error] Error: 토큰이 없습니다.
+2023-05-23 17:24:12.699[info] (department.reg.params) {"name":"내팀","code":"dev"}
+2023-05-23 17:24:12.720[debug] (departmentService.reg) {"id":4,"name":"내팀","code":"dev","updatedAt":"2023-05-23T08:24:12.702Z","createdAt":"2023-05-23T08:24:12.702Z"}
